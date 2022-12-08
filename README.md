@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vihaa Harish Shetty</h1>
 <h3 align="center">A Software Engineer - India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihaashetty&label=Profile%20views&color=0e75b6&style=flat" alt="vihaashetty" /> </p>

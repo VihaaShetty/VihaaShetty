@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at : [https://github.com/VihaaShetty](https://github.com/VihaaShetty)
 
+- 📄 My Research Paper is available at : [https://ieeexplore.ieee.org/document/9915988](https://ieeexplore.ieee.org/document/9915988)
+
 - 💬 Ask me about : **C++, DSA, Python, C, HTML, CSS.**
 
 - 📫 How to reach me : **vihaaharishshetty@gmail.com**

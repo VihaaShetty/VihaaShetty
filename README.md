@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vihaa Harish Shetty</h1>
-<h3 align="center">Associate Software Engineer @ Bosch</h3>
+<h3 align="center">Associate Software Engineer @ BOSCH</h3>
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 

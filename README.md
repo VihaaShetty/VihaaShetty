@@ -12,7 +12,7 @@
 
 - 📄 My Research Paper is available at : [https://ieeexplore.ieee.org/document/9915988](https://ieeexplore.ieee.org/document/9915988)
 
-- 💬 Ask me about : **DSA, Python, C, HTML, CSS.**
+- 💬 Ask me about : **Python, SQL, MySQL, Excel, Tableau, PowerBI.**
 
 - 📫 How to reach me : **vihaaharishshetty@gmail.com**
 

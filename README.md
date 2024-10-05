@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihaashetty&label=Profile%20views&color=0e75b6&style=flat" alt="vihaashetty" /> </p>
 
-- 🌱 I’m currently learning : **Development**
+- 🌱 Software Developer at BOSCH.
 
 - 👨‍💻 All of my projects are available at : [https://github.com/VihaaShetty](https://github.com/VihaaShetty)
 
